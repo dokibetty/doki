@@ -1,0 +1,199 @@
+
+#EXTM3U
+
+
+#EXTINF:-1,pluto tv masterchef
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3ddbd27091820009f86dd9/subtitle/es/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=48744a91-9419-4f26-9289-7bbc5e5c0ae6&deviceVersion=89.0.4389.128&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Chrome&sid=eb0c5f96-9dee-11eb-95f3-0242ac110002&advertisingId=&deviceLat=-3.4809&deviceLon=-80.2365&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:-1,pluto tv empeños a lo bestia
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3ddbd27091820009f86dd9/subtitle/es/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=48744a91-9419-4f26-9289-7bbc5e5c0ae6&deviceVersion=89.0.4389.128&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Chrome&sid=eb0c5f96-9dee-11eb-95f3-0242ac110002&advertisingId=&deviceLat=-3.4809&deviceLon=-80.2365&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:-1,pluto tv lucha libre
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=48744a91-9419-4f26-9289-7bbc5e5c0ae6&deviceVersion=89.0.4389.128&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Chrome&sid=eb0c5f96-9dee-11eb-95f3-0242ac110002&advertisingId=&deviceLat=-3.4809&deviceLon=-80.2365&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:-1,pluto tv cine comedia
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/2142297/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=48744a91-9419-4f26-9289-7bbc5e5c0ae6&deviceVersion=89.0.4389.128&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Chrome&sid=eb0c5f96-9dee-11eb-95f3-0242ac110002&advertisingId=&deviceLat=-3.4809&deviceLon=-80.2365&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:-1,pluto tv cine estelar
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=48744a91-9419-4f26-9289-7bbc5e5c0ae6&deviceVersion=89.0.4389.128&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Chrome&sid=eb0c5f96-9dee-11eb-95f3-0242ac110002&advertisingId=&deviceLat=-3.4809&deviceLon=-80.2365&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:-1,pluto tv cine suspenso
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=48744a91-9419-4f26-9289-7bbc5e5c0ae6&deviceVersion=89.0.4389.128&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Chrome&sid=eb0c5f96-9dee-11eb-95f3-0242ac110002&advertisingId=&deviceLat=-3.4809&deviceLon=-80.2365&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:-1,pluto tv estrellas de accion
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=48744a91-9419-4f26-9289-7bbc5e5c0ae6&deviceVersion=89.0.4389.128&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Chrome&sid=eb0c5f96-9dee-11eb-95f3-0242ac110002&advertisingId=&deviceLat=-3.4809&deviceLon=-80.2365&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:-1,pluto tv masterchef mexico
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3ddbd27091820009f86dd9/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=48744a91-9419-4f26-9289-7bbc5e5c0ae6&deviceVersion=89.0.4389.128&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Chrome&sid=eb0c5f96-9dee-11eb-95f3-0242ac110002&advertisingId=&deviceLat=-3.4809&deviceLon=-80.2365&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:-1,pluto tv cine romance
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd7ea2aeab5230009986735/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=48744a91-9419-4f26-9289-7bbc5e5c0ae6&deviceVersion=89.0.4389.128&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Chrome&sid=eb0c5f96-9dee-11eb-95f3-0242ac110002&advertisingId=&deviceLat=-3.4809&deviceLon=-80.2365&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:-1,pluto tv cine terror
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=48744a91-9419-4f26-9289-7bbc5e5c0ae6&deviceVersion=89.0.4389.128&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Chrome&sid=eb0c5f96-9dee-11eb-95f3-0242ac110002&advertisingId=&deviceLat=-3.4809&deviceLon=-80.2365&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:-1,pluto tv cine
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=48744a91-9419-4f26-9289-7bbc5e5c0ae6&deviceVersion=89.0.4389.128&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Chrome&sid=eb0c5f96-9dee-11eb-95f3-0242ac110002&advertisingId=&deviceLat=-3.4809&deviceLon=-80.2365&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:-1,pluto tv cine familia
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/subtitle/es/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=48744a91-9419-4f26-9289-7bbc5e5c0ae6&deviceVersion=89.0.4389.128&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Chrome&sid=eb0c5f96-9dee-11eb-95f3-0242ac110002&advertisingId=&deviceLat=-3.4809&deviceLon=-80.2365&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:-1,pluto tv paramount plus
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600728952b1776000776526d/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=48744a91-9419-4f26-9289-7bbc5e5c0ae6&deviceVersion=89.0.4389.128&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Chrome&sid=eb0c5f96-9dee-11eb-95f3-0242ac110002&advertisingId=&deviceLat=-3.4809&deviceLon=-80.2365&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+
+#EXTINF:-1,pluto tv series
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde1317578340009b751d0/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=48744a91-9419-4f26-9289-7bbc5e5c0ae6&deviceVersion=89.0.4389.128&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Chrome&sid=eb0c5f96-9dee-11eb-95f3-0242ac110002&advertisingId=&deviceLat=-3.4809&deviceLon=-80.2365&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:-1,pluto tv series retro
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=48744a91-9419-4f26-9289-7bbc5e5c0ae6&deviceVersion=89.0.4389.128&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Chrome&sid=eb0c5f96-9dee-11eb-95f3-0242ac110002&advertisingId=&deviceLat=-3.4809&deviceLon=-80.2365&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:-1,pluto tv los tres chiflados
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e11eb9/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=48744a91-9419-4f26-9289-7bbc5e5c0ae6&deviceVersion=89.0.4389.128&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Chrome&sid=eb0c5f96-9dee-11eb-95f3-0242ac110002&advertisingId=&deviceLat=-3.4809&deviceLon=-80.2365&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:-1,pluto tv series latinas
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=48744a91-9419-4f26-9289-7bbc5e5c0ae6&deviceVersion=89.0.4389.128&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Chrome&sid=eb0c5f96-9dee-11eb-95f3-0242ac110002&advertisingId=&deviceLat=-3.4809&deviceLon=-80.2365&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:-1,pluto tv novelas
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0cc2efd2700090b7ff4/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=48744a91-9419-4f26-9289-7bbc5e5c0ae6&deviceVersion=89.0.4389.128&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Chrome&sid=eb0c5f96-9dee-11eb-95f3-0242ac110002&advertisingId=&deviceLat=-3.4809&deviceLon=-80.2365&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:-1,pluto tv telefe
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c0009910465/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=48744a91-9419-4f26-9289-7bbc5e5c0ae6&deviceVersion=89.0.4389.128&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Chrome&sid=eb0c5f96-9dee-11eb-95f3-0242ac110002&advertisingId=&deviceLat=-3.4809&deviceLon=-80.2365&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:-1,pluto tv nosey escandalos
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9afb01816137000737f799/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=48744a91-9419-4f26-9289-7bbc5e5c0ae6&deviceVersion=89.0.4389.128&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Chrome&sid=eb0c5f96-9dee-11eb-95f3-0242ac110002&advertisingId=&deviceLat=-3.4809&deviceLon=-80.2365&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+
+#EXTINF:-1,pluto tv nosey casos
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9b005b66d1950007857df6/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=48744a91-9419-4f26-9289-7bbc5e5c0ae6&deviceVersion=89.0.4389.128&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Chrome&sid=eb0c5f96-9dee-11eb-95f3-0242ac110002&advertisingId=&deviceLat=-3.4809&deviceLon=-80.2365&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:-1,pluto tv Mtv
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fab088b3279760007d4e4fd/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=48744a91-9419-4f26-9289-7bbc5e5c0ae6&deviceVersion=89.0.4389.128&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Chrome&sid=eb0c5f96-9dee-11eb-95f3-0242ac110002&advertisingId=&deviceLat=-3.4809&deviceLon=-80.2365&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:-1,pluto tv Mtv clasico  
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91b7ea86ee60009d89e75/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=48744a91-9419-4f26-9289-7bbc5e5c0ae6&deviceVersion=89.0.4389.128&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Chrome&sid=eb0c5f96-9dee-11eb-95f3-0242ac110002&advertisingId=&deviceLat=-3.4809&deviceLon=-80.2365&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:-1,pluto tv Mtv pranks
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98a911c881310007d7aae2/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=48744a91-9419-4f26-9289-7bbc5e5c0ae6&deviceVersion=89.0.4389.128&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Chrome&sid=eb0c5f96-9dee-11eb-95f3-0242ac110002&advertisingId=&deviceLat=-3.4809&deviceLon=-80.2365&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:-1,pluto tv Mtv animaciones
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8ce2e426140007c78fd1/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=48744a91-9419-4f26-9289-7bbc5e5c0ae6&deviceVersion=89.0.4389.128&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Chrome&sid=eb0c5f96-9dee-11eb-95f3-0242ac110002&advertisingId=&deviceLat=-3.4809&deviceLon=-80.2365&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:-1,pluto tv people are asome
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac65911406400078b8993/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=48744a91-9419-4f26-9289-7bbc5e5c0ae6&deviceVersion=89.0.4389.128&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Chrome&sid=eb0c5f96-9dee-11eb-95f3-0242ac110002&advertisingId=&deviceLat=-3.4809&deviceLon=-80.2365&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:-1,pluto tv nick teen
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fab09a8749b1a00077d35d2/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=48744a91-9419-4f26-9289-7bbc5e5c0ae6&deviceVersion=89.0.4389.128&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Chrome&sid=eb0c5f96-9dee-11eb-95f3-0242ac110002&advertisingId=&deviceLat=-3.4809&deviceLon=-80.2365&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:-1,pluto tv kenan y kel
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fcea93ffcf94500071c4b2f/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=48744a91-9419-4f26-9289-7bbc5e5c0ae6&deviceVersion=89.0.4389.128&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Chrome&sid=eb0c5f96-9dee-11eb-95f3-0242ac110002&advertisingId=&deviceLat=-3.4809&deviceLon=-80.2365&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:-1,pluto tv teen
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6de52b9914200091f047a/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=48744a91-9419-4f26-9289-7bbc5e5c0ae6&deviceVersion=89.0.4389.128&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Chrome&sid=eb0c5f96-9dee-11eb-95f3-0242ac110002&advertisingId=&deviceLat=-3.4809&deviceLon=-80.2365&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:-1,pluto tv degrassi
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de58ef515635d00091f605d/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=48744a91-9419-4f26-9289-7bbc5e5c0ae6&deviceVersion=89.0.4389.128&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Chrome&sid=eb0c5f96-9dee-11eb-95f3-0242ac110002&advertisingId=&deviceLat=-3.4809&deviceLon=-80.2365&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:-1,pluto tv competencias 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6d935d000120009bc1132/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=48744a91-9419-4f26-9289-7bbc5e5c0ae6&deviceVersion=89.0.4389.128&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Chrome&sid=eb0c5f96-9dee-11eb-95f3-0242ac110002&advertisingId=&deviceLat=-3.4809&deviceLon=-80.2365&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:-1,pluto tv noticias
+https://service-stitcher.clusters.pluto.tv/proxy/eb0c5f96-9dee-11eb-95f3-0242ac110002/5f523aa5523ae000074745ec/2977158/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=48744a91-9419-4f26-9289-7bbc5e5c0ae6&deviceVersion=89.0.4389.128&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Chrome&sid=eb0c5f96-9dee-11eb-95f3-0242ac110002&advertisingId=&deviceLat=-3.4809&deviceLon=-80.2365&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:-1,pluto tv reality
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde197f6591d0009839e04/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=48744a91-9419-4f26-9289-7bbc5e5c0ae6&deviceVersion=89.0.4389.128&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Chrome&sid=eb0c5f96-9dee-11eb-95f3-0242ac110002&advertisingId=&deviceLat=-3.4809&deviceLon=-80.2365&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:-1,pluto tv investiga
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde197f6591d0009839e04/subtitle/es/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=48744a91-9419-4f26-9289-7bbc5e5c0ae6&deviceVersion=89.0.4389.128&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Chrome&sid=eb0c5f96-9dee-11eb-95f3-0242ac110002&advertisingId=&deviceLat=-3.4809&deviceLon=-80.2365&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:-1,pluto tv misterios medicos
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f230e416b68ff00075b0139/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=48744a91-9419-4f26-9289-7bbc5e5c0ae6&deviceVersion=89.0.4389.128&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Chrome&sid=eb0c5f96-9dee-11eb-95f3-0242ac110002&advertisingId=&deviceLat=-3.4809&deviceLon=-80.2365&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:-1,pluto tv vida real
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df265697ec3510009df1ef0/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=48744a91-9419-4f26-9289-7bbc5e5c0ae6&deviceVersion=89.0.4389.128&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Chrome&sid=eb0c5f96-9dee-11eb-95f3-0242ac110002&advertisingId=&deviceLat=-3.4809&deviceLon=-80.2365&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:-1,pluto tv naturaleza
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=48744a91-9419-4f26-9289-7bbc5e5c0ae6&deviceVersion=89.0.4389.128&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Chrome&sid=eb0c5f96-9dee-11eb-95f3-0242ac110002&advertisingId=&deviceLat=-3.4809&deviceLon=-80.2365&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:-1,pluto tv paisajes
+https://service-stitcher.clusters.pluto.tv/proxy/eb0c5f96-9dee-11eb-95f3-0242ac110002/5f4fed840a2764000720d966/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=48744a91-9419-4f26-9289-7bbc5e5c0ae6&clientModelNumber=na&deviceDNT=false&deviceId=48744a91-9419-4f26-9289-7bbc5e5c0ae6&deviceLat=-3.4809&deviceLon=-80.2365&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=89.0.4389.128&marketingRegion=VE&serverSideAds=true&sessionID=eb0c5f96-9dee-11eb-95f3-0242ac110002&sid=eb0c5f96-9dee-11eb-95f3-0242ac110002&userId=&startingOffset=0
+
+#EXTINF:-1,pluto tv animales
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009303b8d/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=48744a91-9419-4f26-9289-7bbc5e5c0ae6&deviceVersion=89.0.4389.128&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Chrome&sid=eb0c5f96-9dee-11eb-95f3-0242ac110002&advertisingId=&deviceLat=-3.4809&deviceLon=-80.2365&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:-1,pluto tv aventura
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc266f80e3550009136843/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=48744a91-9419-4f26-9289-7bbc5e5c0ae6&deviceVersion=89.0.4389.128&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Chrome&sid=eb0c5f96-9dee-11eb-95f3-0242ac110002&advertisingId=&deviceLat=-3.4809&deviceLon=-80.2365&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:-1,pluto tv velocidad
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dc7480e3550009133d4a/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=48744a91-9419-4f26-9289-7bbc5e5c0ae6&deviceVersion=89.0.4389.128&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Chrome&sid=eb0c5f96-9dee-11eb-95f3-0242ac110002&advertisingId=&deviceLat=-3.4809&deviceLon=-80.2365&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:-1,pluto tv babyfirst
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=48744a91-9419-4f26-9289-7bbc5e5c0ae6&deviceVersion=89.0.4389.128&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Chrome&sid=eb0c5f96-9dee-11eb-95f3-0242ac110002&advertisingId=&deviceLat=-3.4809&deviceLon=-80.2365&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:-1,pluto tv junnior 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde2ac4bc6c500094ab45b/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=48744a91-9419-4f26-9289-7bbc5e5c0ae6&deviceVersion=89.0.4389.128&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Chrome&sid=eb0c5f96-9dee-11eb-95f3-0242ac110002&advertisingId=&deviceLat=-3.4809&deviceLon=-80.2365&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:-1,pluto tv nick junior club
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009b4fe32/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=48744a91-9419-4f26-9289-7bbc5e5c0ae6&deviceVersion=89.0.4389.128&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Chrome&sid=eb0c5f96-9dee-11eb-95f3-0242ac110002&advertisingId=&deviceLat=-3.4809&deviceLon=-80.2365&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:-1,pluto tv pistas de blue 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9996533c9de3000759ccb5/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=48744a91-9419-4f26-9289-7bbc5e5c0ae6&deviceVersion=89.0.4389.128&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Chrome&sid=eb0c5f96-9dee-11eb-95f3-0242ac110002&advertisingId=&deviceLat=-3.4809&deviceLon=-80.2365&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:-1,pluto tv barnie
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f29ada4bdaebd000708d49d/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=48744a91-9419-4f26-9289-7bbc5e5c0ae6&deviceVersion=89.0.4389.128&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Chrome&sid=eb0c5f96-9dee-11eb-95f3-0242ac110002&advertisingId=&deviceLat=-3.4809&deviceLon=-80.2365&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:-1,pluto tv babar
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e67e20c93312100076f3ffe/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=48744a91-9419-4f26-9289-7bbc5e5c0ae6&deviceVersion=89.0.4389.128&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Chrome&sid=eb0c5f96-9dee-11eb-95f3-0242ac110002&advertisingId=&deviceLat=-3.4809&deviceLon=-80.2365&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:-1,pluto tv reino infantil
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3d06fb60d8000781fce8/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=48744a91-9419-4f26-9289-7bbc5e5c0ae6&deviceVersion=89.0.4389.128&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Chrome&sid=eb0c5f96-9dee-11eb-95f3-0242ac110002&advertisingId=&deviceLat=-3.4809&deviceLon=-80.2365&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:-1,pluto tv rugrats crecidos
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea7215005d66d0007e8128a/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=48744a91-9419-4f26-9289-7bbc5e5c0ae6&deviceVersion=89.0.4389.128&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Chrome&sid=eb0c5f96-9dee-11eb-95f3-0242ac110002&advertisingId=&deviceLat=-3.4809&deviceLon=-80.2365&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:-1,pluto tv kids
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009eaf77b/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=48744a91-9419-4f26-9289-7bbc5e5c0ae6&deviceVersion=89.0.4389.128&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Chrome&sid=eb0c5f96-9dee-11eb-95f3-0242ac110002&advertisingId=&deviceLat=-3.4809&deviceLon=-80.2365&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:-1,pluto tv nick clasico
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=48744a91-9419-4f26-9289-7bbc5e5c0ae6&deviceVersion=89.0.4389.128&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Chrome&sid=eb0c5f96-9dee-11eb-95f3-0242ac110002&advertisingId=&deviceLat=-3.4809&deviceLon=-80.2365&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:-1,pluto tv enbrujada
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e6a51be725522001445ea84/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=48744a91-9419-4f26-9289-7bbc5e5c0ae6&deviceVersion=89.0.4389.128&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Chrome&sid=eb0c5f96-9dee-11eb-95f3-0242ac110002&advertisingId=&deviceLat=-3.4809&deviceLon=-80.2365&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:-1,pluto tv mi bella genio
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5eece08109ecfe001a0f8f38/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=48744a91-9419-4f26-9289-7bbc5e5c0ae6&deviceVersion=89.0.4389.128&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Chrome&sid=4256a48c-9df6-11eb-ab33-0242ac110002&advertisingId=&deviceLat=-3.4809&deviceLon=-80.2365&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:-1,disney junior
+https://76w32s3z6aured58.ezcdn483.net:8443/hls/34fft2cvx9sy.m3u8?s=vPRO7yRCaHYCazvXU0JGHQ&e=1618518131
+
+#EXTINF:-1,cartoon networt
+https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CucEzln8537AVZiGPgEXH-Ii4yGMruJwsFCpnsgVZTsBoTdKqH6G0TzSpdefqnJZvepPU7TAu5RnVSt2TAtFfdERayszCmr2OTUfatvj-3Dabq3PI4Dn4s4WJSx8aES-tpsCLSv9uZDq5pY5Td_-e4F2j1zv_WYyDHReJUSL-V_tMtkykPlaj8q5Ppcg6YaAtmSb2R5YAxKi68iXmnbqIHgxYVbzhdAaHkk6oa9GmlAi7g1PJXof2wMBxNcwZ6qrSdQJyIqtgH9C0tpNWOY3_Z8L1RaydHCvBlbIPOpeAAsASHb8faU_KmnA5itjRXWJFDJ30gy7_J1QvmFc0vrVz6kCN9nTgtshgSwEWbDjSIJbd-T0WduW4a4RznEU377DohDH-HyqrPp4Mv8J25EMqzHAF2MTYxdUmNOcnE-eYvwp1IwgLW8Ihgt48YmXrEBG1PrFW6hwDhXd6tnivulavrSQSkpFdxNkJ44BVFWuB5feNZxPbDIx2snvK4Z0ZCgJyqj_DdX2m448xbCKU5zvYd56XTwlzOSv4cbqUxCVkgh-CC_-5FfZ65i_cNe4lFF25BRnwPLWs7H03ti-FtXcYO-hl0amIRlwfHz83UbohDNmT1IMainq5ygKO96rC_Ip6DbKLAQZNO3EDSeZqt135zN79Sy-pz5N_vFHcPXyoSY6gDvdNh6dCdbIckJwRtnRjlWQm80gAM_MagVWDpH3PDQ3-zVnmWy9wVqZuY-FjAbWecMAgtJVx39n1vxWJX_PnNb39fag4axiPUyn9RCjtpC02a6KT7qVuT3ICgEcYDFFu0hh_XonhB1ZEhDjZsTG3hRRJ6BgTMYJpNnvGgxG_8UruRqvkMro60U.m3u8
+
+
+#EXTINF:-1,disney chanel
+https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/Cu0Eymql-A__psXvZrQXmxkZXTyE51_B7_SdSPvka8C12477BBeRsglH8dixHGHnLrAFBTF8v33_ZHiUNhFdRu8JdEXj3TIwVobHdrqnrjq7SwUErcwNMk3k6BZHVIjbHt8wcOJEoe0yJYMbHi0_OFnsNRIVlMhuzDm1xkpe7Z9PBuTglBTFGHsVJV4O5fOpHN_v_JJmtvagZxyfPWXe2LFX1biGXcwcCzkQ5PoLVeIQpH9gkA0HetTOi1oFtGLapflotR2SCRAVTIy4ZqZaLtxNtYqUBWzEj29IctSSFJ7uTDcBk55D2sSmwa6uMVzUyzTTln_8fcPjVcnPs43adSUC5bSFkB1cYKo-sjqgCkqLeZyvwT_1obqW0SsXgpJvSMnQfMeHP_xCJAOnlH-AhODM9NFGZWgKQQacGdSAYsgCfPuYCNge-EjIjU5kHm-boy61NAc_jsNU-GpMwEPBeM52fetxmJ13rEPdztMNefaIptt_s0tpHkc0_oUiTE6aCWAoIbRN8UZTszg4erVo2N6iW_ytAFvSPVl9HCrtTxKPih89Mtq-A1VF6o0k_nakeT8lVQc3eMA2rPPCt9aBFBkf6UdaXhEw_sMWUkPk6k-A3dEKGVBFSGBGozFa59Yv1oytKyEixi7Swx7BmhWwEq7t3XIElairPj7zW1gypmPulD2q9cYn-R_aZ6rZB4_ydt4viS_d1fIM0rjcOGGzXaZs2hDsja7g1qFg1cyijqtt4ffwKUG8g5nKuxejNogii5rabBrFTp0nw9m3pKJ7nt_qUiznU6qv71vUH2Z54pYIzj0GtB5ZQiEWj-8aghSuEhC7hqDxeKmpv_s8jKp2e6QsGgx5TZ80fwk5YQkV9OU.m3u8
+
+#EXTINF:-1,discovery kids
+https://76w32s3z6aured58.ezcdn483.net:8443/hls/4k7om.m3u8?s=d6FVx6CGp8TuxjTpZQFUSQ&e=1618518334
+
+#EXTINF:-1,disney xd
+https://76w32s3z6aured58.ezcdn483.net:8443/hls/e4jegqx.m3u8?s=-CqDxc_v4fyqE_QeaAUZlA&e=1618518375
+
+#EXTINF:-1,boomerang
+https://j9g6x4n4269s29wh.ezcdn383.net:8443/hls/bolmwc.m3u8?s=YaKlKkTgwf6bnlgOco55_Q&e=1618518429
+
+#EXTINF:-1,nick 2
+https://j9g6x4n4269s29wh.ezcdn383.net:8443/hls/dw510ac02mnw17m.m3u8?s=k-84PxCPR1IKcRcI1ppGFA&e=1618518475
+
+#EXTINF:-1,nat geo kids
+https://j9g6x4n4269s29wh.ezcdn383.net:8443/hls/0hth8.m3u8?s=1pvJeGXirHggqQc58JImGw&e=1618518532
+
+#EXTINF:-1,tom y jerry
+https://r1---sn-pm2-hjie.googlevideo.com/videoplayback?expire=1618518583&ei=1014YO-pGMKzkAPi8q-QBQ&ip=45.186.140.167&id=D2OjUofhqw8.1&itag=247&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278&source=yt_live_broadcast&requiressl=yes&mh=gB&mm=44%2C29&mn=sn-pm2-hjie%2Csn-hp57ynes&ms=lva%2Crdu&mv=m&mvi=1&pcm2cms=yes&pl=24&initcwndbps=1262500&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=HdAtlyYjJJODbO9gJJXkEJMF&gir=yes&mt=1618496672&fvip=1&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=vNtrCkRQY_MDRA&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRgIhAIiq1oWHMsXSHYEoRBT7__fbEAXl-cv9UnBs28AfKQJ5AiEA26K8Pfo66dWcCt8Yc9s2wdRKgLf2drLDkP0t0g8Hdds%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAJzA3KkWTxPoJFOCjEFWb3CCXmfX0IpqlSdsDn8sKxASAiEA3_cp4rGK62Y97G0G0AhEUgG571X89gYcY9N_9C-vh0g%3D&alr=yes&cpn=IMxNoInFWWGcQclt&cver=1.20210412.1.0&sq=154299&rn=3&rbuf=9886
+
+#EXTINF:-1,tc mi canal 
+https://r1---sn-pm2-hjie.googlevideo.com/videoplayback?expire=1618518583&ei=1014YO-pGMKzkAPi8q-QBQ&ip=45.186.140.167&id=D2OjUofhqw8.1&itag=247&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278&source=yt_live_broadcast&requiressl=yes&mh=gB&mm=44%2C29&mn=sn-pm2-hjie%2Csn-hp57ynes&ms=lva%2Crdu&mv=m&mvi=1&pcm2cms=yes&pl=24&initcwndbps=1262500&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=HdAtlyYjJJODbO9gJJXkEJMF&gir=yes&mt=1618496672&fvip=1&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=vNtrCkRQY_MDRA&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRgIhAIiq1oWHMsXSHYEoRBT7__fbEAXl-cv9UnBs28AfKQJ5AiEA26K8Pfo66dWcCt8Yc9s2wdRKgLf2drLDkP0t0g8Hdds%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAJzA3KkWTxPoJFOCjEFWb3CCXmfX0IpqlSdsDn8sKxASAiEA3_cp4rGK62Y97G0G0AhEUgG571X89gYcY9N_9C-vh0g%3D&alr=yes&cpn=IMxNoInFWWGcQclt&cver=1.20210412.1.0&sq=154299&rn=3&rbuf=9886
+
+#EXTINF:-1,ecuavisa
+https://us-b5-p-e-wo1.cdn.mdstrm.com/live-stream/603ea23f928cc5255563012c/publish/media_5000.m3u8?aid=60214bbd7267582b2467eff9&uid=28AovemOoD8TqnFStirC4J07u1UW2p8D&sid=YgCopW9ODqCDj7njTCdNhLTQNb0xV9tA&pid=TlhrhU3W4Bu2TueVOONBspn4F9KpxtME&ref=https%3A%2F%2Fwww.tvenvivoecuador.com%2Fcanales-en-vivo%2Fecuavisa-en-vivo&without_cookies=false&dnt=true&es=us-b5-p-e-wo1.cdn.mdstrm.com&ote=1618583642752&ot=InwsRkxdM94EKRzigc4BlA&proto=https&pz=us
+
